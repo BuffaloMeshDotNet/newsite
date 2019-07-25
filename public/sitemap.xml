@@ -3,77 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://buffalomesh.net/blog/</loc>
+    <loc>https://www.buffalomesh.net/blog/</loc>
     <lastmod>2019-07-25T17:13:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/</loc>
+    <loc>https://www.buffalomesh.net/</loc>
     <lastmod>2019-07-25T17:13:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/categories/</loc>
+    <loc>https://www.buffalomesh.net/categories/</loc>
     <lastmod>2019-07-25T17:13:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/categories/news/</loc>
+    <loc>https://www.buffalomesh.net/categories/news/</loc>
     <lastmod>2019-07-25T17:13:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/blog/2019/07/25/reboot-and-refresh/</loc>
+    <loc>https://www.buffalomesh.net/blog/2019/07/25/reboot-and-refresh/</loc>
     <lastmod>2019-07-25T17:13:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/tags/</loc>
-    <lastmod>2019-07-25T17:13:30-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://buffalomesh.net/tags/news/</loc>
+    <loc>https://www.buffalomesh.net/tags/</loc>
     <lastmod>2019-07-25T17:13:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/categories/net-neutrality/</loc>
+    <loc>https://www.buffalomesh.net/tags/news/</loc>
+    <lastmod>2019-07-25T17:13:30-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.buffalomesh.net/categories/net-neutrality/</loc>
     <lastmod>2017-12-17T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/blog/2017/12/17/net-neutrality-gone/</loc>
+    <loc>https://www.buffalomesh.net/blog/2017/12/17/net-neutrality-gone/</loc>
     <lastmod>2017-12-17T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/tags/politics/</loc>
+    <loc>https://www.buffalomesh.net/tags/politics/</loc>
     <lastmod>2017-12-17T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/about-us/</loc>
+    <loc>https://www.buffalomesh.net/about-us/</loc>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/contact/</loc>
+    <loc>https://www.buffalomesh.net/contact/</loc>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/faq/</loc>
+    <loc>https://www.buffalomesh.net/faq/</loc>
   </url>
   
   <url>
-    <loc>https://buffalomesh.net/help/</loc>
+    <loc>https://www.buffalomesh.net/help/</loc>
   </url>
   
 </urlset>

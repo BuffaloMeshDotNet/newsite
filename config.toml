@@ -1,4 +1,4 @@
-baseurl = "https://buffalomesh.net"
+baseurl = "https://www.buffalomesh.net"
 title = "Buffalo Mesh Network"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
