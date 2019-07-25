@@ -4,7 +4,7 @@ date = "2017-12-17T13:50:46+02:00"
 tags = ["politics"]
 categories = ["Net Neutrality"]
 description = "Net Neutrality bites the dust"
-banner = "img/banners/banner-1.jpg"
+banner = "/img/banners/banner-1.jpg"
 +++
 
 So, with Net Neutrality getting tossed out the window, we’ve decided to get the project going again.  News will be coming, as we are currently working on the first inter-community link.
