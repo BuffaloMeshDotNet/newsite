@@ -3,7 +3,7 @@ title = "Net Neutrality – Gone, and Local Social Media"
 date = "2017-12-17T13:50:46+02:00"
 tags = ["politics"]
 categories = ["Net Neutrality"]
-description = "This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content."
+description = "Net Neutrality bites the dust"
 banner = "img/banners/banner-1.jpg"
 +++
 
