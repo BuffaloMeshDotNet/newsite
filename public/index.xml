@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buffalo Mesh Network</title>
+    <link>https://buffalomesh.net/</link>
+    <description>Recent content on Buffalo Mesh Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Dec 2017 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://buffalomesh.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Net Neutrality – Gone, and Local Social Media</title>
+      <link>https://buffalomesh.net/blog/2017/12/17/net-neutrality-gone/</link>
+      <pubDate>Sun, 17 Dec 2017 13:50:46 +0200</pubDate>
+      
+      <guid>https://buffalomesh.net/blog/2017/12/17/net-neutrality-gone/</guid>
+      <description>So, with Net Neutrality getting tossed out the window, we’ve decided to get the project going again. News will be coming, as we are currently working on the first inter-community link.
+If you are interested in becoming a node operator, feel free to reach out to us at contact@buffalomesh.net Or, use our contact form.
+Also, BuffaloMesh.net has launched our localized social media platform, and is accessible at https://social.buffalomesh.net. It runs the Mastodon platform, which allows you to connect with other users on instances located across the globe.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://buffalomesh.net/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://buffalomesh.net/about-us/</guid>
+      <description>We are a not-for-profit organization, looking to build a data service that allows everyone the ability to access required services such as health, educational, and political information. We are also looking to provide access to services that most individuals in today’s society consider to be basic services, such as email, and voice services.
+We originally started as a two individuals sitting down for coffee in August of 2014, trying to figure out how to make Buffalo a smarter city that also allows those who are typically considered under-served to have the same access as everyone else to various data and information served.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://buffalomesh.net/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://buffalomesh.net/contact/</guid>
+      <description>Reach out and contact us! Can you host a node? Just want more information? Contact us, we will get back to you regarding your questions or concerns.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://buffalomesh.net/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://buffalomesh.net/faq/</guid>
+      <description>Q1 Who are you people? We’re just folk. Members of the community here in Buffalo and WNY who are looking to build a wide-area, distributed, and self-healing mesh data network, open to all.
+Q2 Is this a competitor to TWC/FiOS/etc? At this time, no. The goal of the mesh network is to make the internet better, and hyper-local.
+Q3 This is stupid because it doesn’t provide internet! Not a question, but we don’t feel it’s stupid to provide a data network that serves the interest of the community first, and foremost; that also allows all members of the network to act in a completely self-determined manner.</description>
+    </item>
+    
+    <item>
+      <title>Help Us</title>
+      <link>https://buffalomesh.net/help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://buffalomesh.net/help/</guid>
+      <description>We are currently in search of volunteers who can help in many ways. You can email us at contact@buffalomesh.net, or join our discussion group.</description>
+    </item>
+    
+  </channel>
+</rss>

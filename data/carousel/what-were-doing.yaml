@@ -1,0 +1,8 @@
+weight: 1
+title: "What We're Doing"
+description: >
+  <ul class="list-style-none">
+    <li>We are building and training others to build and install hardware to make this network happen.</li>
+    <li>Currently, there's 3 active people working on hardware build-out. We are always in need of more help!</li>
+  </ul>
+image: "img/carousel/DIY-antennas-hardware1.png"
